@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
