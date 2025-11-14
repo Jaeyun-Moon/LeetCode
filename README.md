@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0001-two-sum) |
+| [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -65,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
