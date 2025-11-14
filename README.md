@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0782-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
