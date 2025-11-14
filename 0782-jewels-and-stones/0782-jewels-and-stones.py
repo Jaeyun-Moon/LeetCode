@@ -1,8 +1,8 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
+        # sum(s in J for s in S)
         c = 0 
         splits = collections.Counter(stones)
         for char in jewels:
-            if char in splits:
-                c += splits[char]
+            c += splits[char]
         return c 
