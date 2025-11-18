@@ -1,5 +1,6 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        # return list(itertools.permutations(nums))
         def dfs(elements):
             if len(elements) == 0:
                 result.append(prev_elements[:])
