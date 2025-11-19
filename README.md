@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
@@ -133,4 +134,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
