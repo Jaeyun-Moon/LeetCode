@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0706-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0706-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0706-design-hashmap) |
 | [0782-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 ## Two Pointers
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
@@ -82,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0002-add-two-numbers) |
+| [0706-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0817-design-hashmap) |
 ## Sliding Window
 |  |
