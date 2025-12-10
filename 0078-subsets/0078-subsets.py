@@ -4,12 +4,9 @@ class Solution:
 
         def dfs(index,prev):
             res.append(prev)
-            if len(prev) == len(nums):
-                return 
             
-
             for ind in range(index,len(nums)):
-                dfs(ind+1,prev+[nums[ind]])
+                dfs(ind+1,prev+[nums[ind]]) # ind 대신 index를 사용하였음 (실수)
 
         dfs(0,[])
         return res
