@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0706-design-hashmap](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
