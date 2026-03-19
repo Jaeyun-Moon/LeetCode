@@ -9,7 +9,7 @@ class Solution:
             # 1, A 
             missing -= need[char]>0 
             need[char] -= 1
-        
+            print(missing)
             if missing == 0:
                 while left < right and need[s[left]] < 0 :
                     need[s[left]] +=1 
