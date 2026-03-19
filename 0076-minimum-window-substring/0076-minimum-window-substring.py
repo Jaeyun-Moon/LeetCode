@@ -4,16 +4,18 @@ class Solution:
         missing = len(t)
         left = start = end = 0 
 
-        # 오른쪽 포인터 이동? 
+        # 오른쪽 포인터 이동
         for right, char in enumerate(s,1):
             # 1, A 
             missing -= need[char]>0 
             need[char] -= 1
-            print(missing,need)
+            # print(missing,need)
             if missing == 0:
+                # 왼쪽 포인터 이동 
                 while left < right and need[s[left]] < 0 :
                     need[s[left]] +=1 
                     left +=1
+                # 최소 길이 확인 및 반환 
                 if not end or right - left <= end -start:
                     start, end = left, right 
                 need[s[left]] +=1 
