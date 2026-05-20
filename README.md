@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Jaeyun-Moon/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Jaeyun-Moon/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
